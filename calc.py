@@ -6,4 +6,4 @@ def sub(x, y):
     """docs for sub"""
     return x - y
 
-# awesome
+# amazingly:excellent
